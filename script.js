@@ -46,7 +46,7 @@ const perguntas = [
                 {
                     texto:    "Niki Lauda.",
                
-                    afirmacao: "Parabéns, você tem cultura."
+                    afirmacao: "Parabéns, você tem conhecimento sobre o assunto, uma pessoa que possui e compreende a cultuba automobilística!!"
                 }    
                
             ]
