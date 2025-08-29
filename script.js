@@ -41,12 +41,12 @@ const perguntas = [
             alternativas: [
                 {
                     texto: "Brad Pitt.",
-                    afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    afirmacao: "Você não tem cultura, ele é ator, apenas protagonizou o filme Fórmula 1."
                 },
                 {
-                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+                    texto:    "Niki Lauda.",
                
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+                    afirmacao: "Parabéns, você tem cultura."
                 }    
                
             ]
